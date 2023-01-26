@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=HealthBar
+comment0.text=\r\n\ It's\ about\ the\ main\ character's\ health\ system.\r\n\ \r\n\ @author\ (James\ Patrick\ Arellano)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=HealthBar()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ loseHealth()
+numComments=4

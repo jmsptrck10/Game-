@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Zombie
+comment0.text=\r\n\ In\ this\ sub\ class\ i've\ worked\ on\ the\ function\ to\ check\ if\ zombie\ is\ eliminated,\ remove\ zombie\ out\ of\ the\ environment\ once\ it\ has\ been\ eliminated,\ the\ hits\ to\ eliminate\ zombie,\ and\ the\ design\ of\ the\ zombie.\r\n\ \r\n\ @author\ (Rayan\ Syed)\ \r\n\ @version\ (1)\r\n
+comment1.params=mainPlayer\ counter
+comment1.target=Zombie(Player,\ Counter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveAround()
+comment4.params=
+comment4.target=void\ hitByProjectile()
+numComments=5

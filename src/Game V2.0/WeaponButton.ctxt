@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WeaponButton
+comment0.text=\r\n\ In\ this\ sub\ class\ i've\ worked\ on\ the\ weapon\ upgrade\ functions,\ for\ example\ the\ design\ of\ the\ weapon\ upgrade\ button\ and\ also\ the\ function\ to\ adjust\ the\ cash\ and\ increase\ bullets\ when\ fire.\r\n\ \r\n\ @author\ (Rayan\ Syed)\ \r\n\ @version\ (1)\r\n
+comment1.params=counter
+comment1.target=WeaponButton(Counter)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

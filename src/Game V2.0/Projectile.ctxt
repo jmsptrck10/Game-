@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ In\ this\ sub\ class\ i've\ worked\ on\ the\ design\ of\ the\ bullet\ and\ also\ put\ in\ a\ function\ to\ make\ the\ bullet\ disapper\ when\ it\ hits\ the\ edge\ of\ the\ environment.\r\n\ \r\n\ @author\ (Rayan\ Syed)\ \r\n\ @version\ (1)\r\n
+comment1.params=
+comment1.target=Projectile()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Projectile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
